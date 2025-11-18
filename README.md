@@ -58,7 +58,7 @@ pip install -r requirements.txt
 ### 3. Run the System
 
 ```bash
-python main.py
+python app.py
 ```
 
 > Make sure your webcam is connected and accessible.
