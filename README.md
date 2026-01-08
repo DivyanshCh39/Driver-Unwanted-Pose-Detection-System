@@ -20,9 +20,9 @@ This is a real-time computer vision system that detects unsafe or unwanted drive
 |------------------|--------------------|
 | Language         | Python 3.x         |
 | Computer Vision  | OpenCV             |
-| Deep Learning    | TensorFlow / Keras |
+| Deep Learning    | TensorFlow         |
 | Pose Estimation  | MediaPipe / OpenPose (optional) |
-| Alert System     | Audio / GUI popups |
+| Alert System     | Audio              |
 
 ---
 
@@ -79,20 +79,10 @@ python app.py
 - Integrate with vehicle systems for automatic intervention
 - Add support for multi-driver environments
 - Improve accuracy with larger datasets
-- Deploy on edge devices (e.g., Raspberry Pi, Jetson Nano)
-
----
-
-## 🤝 Contributing
-
-Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
+- Deploy on edge devices (e.g., Raspberry Pi)
 
 ---
 
 ## 📄 License
 
 This project is licensed under the MIT License.
-
----
-
-Let me know if you’d like a matching `requirements.txt`, sample `main.py`, or a project logo to go with this. I can also help you write a short project summary for your resume or LinkedIn.
